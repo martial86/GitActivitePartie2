@@ -13,4 +13,11 @@ public class Eleve {
 		this.age=age;
 	}
 
+	public String toString() {
+		return "Eleve [nom=" + nom + ", age=" + age + ", getClass()="
+				+ getClass() + "]";
+	}
+	
+	
+
 }

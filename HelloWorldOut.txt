@@ -1,3 +1,3 @@
 Hello World Java
-e1: Eleve@7f31245a
-e2: Eleve@6d6f6e28
+e1: Eleve [nom=Eleve inconnu, age=0, getClass()=class Eleve]
+e2: Eleve [nom=Burma, age=60, getClass()=class Eleve]
